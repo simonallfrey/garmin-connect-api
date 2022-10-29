@@ -1,6 +1,15 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/cyberjunkynl/)
+# I needed a way to bulk update privacy settings...
+
+Finally it wasn't using this (read-only) python interface to the api, but a hack found at:
+
+https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/252746/bulk-update-activity-privacy-settings
+
+Read [a relative link](README-bulkReclassify.md)
+
+
 
 # Python: Garmin Connect
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/cyberjunkynl/)
 
 Python 3 API wrapper for Garmin Connect to get your statistics.
 
