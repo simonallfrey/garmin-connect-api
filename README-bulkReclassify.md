@@ -18,7 +18,7 @@ If you want to sort the order they are worked through in or filter the ones you 
 If your activities already have the privacy setting you're applying, they'll be fine
 Preparation
 
-I have prepared a script, which you can access here, [bulkReclassify.json](bulkReclassify.json)
+I have prepared a script, which you can access here, [bulkReclassify.js](bulkReclassify.js)
 but this requires a few updates. Copy the text into notepad or similar then make the edits below. 
 
 Set an activity limit
