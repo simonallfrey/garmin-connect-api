@@ -4,7 +4,7 @@ Finally it wasn't using this (read-only) python interface to the api, but a hack
 
 https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/252746/bulk-update-activity-privacy-settings
 
-Read [a relative link](README-bulkReclassify.md)
+Read [README-bulkReclassify.md](README-bulkReclassify.md)
 
 
 
