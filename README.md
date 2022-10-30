@@ -6,12 +6,7 @@ https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/252
 
 Read [README-bulkReclassify.md](README-bulkReclassify.md)
 
-local change
-11:06 local
-Sun Oct 30 11:07:16 2022 local
-Sun Oct 30 11:21:56 2022 locally
-
-11:30 remote
+Sun Oct 30 11:27:10 2022 local change
 
 
 # Python: Garmin Connect
