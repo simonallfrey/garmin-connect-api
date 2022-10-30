@@ -6,7 +6,7 @@ https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/252
 
 Read [README-bulkReclassify.md](README-bulkReclassify.md)
 
-11:51 local change
+11:50 remote change
 
 
 # Python: Garmin Connect
