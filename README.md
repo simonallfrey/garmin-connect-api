@@ -6,7 +6,7 @@ https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/252
 
 Read [README-bulkReclassify.md](README-bulkReclassify.md)
 
-test1
+test2
 
 
 # Python: Garmin Connect
